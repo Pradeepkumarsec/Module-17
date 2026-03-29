@@ -23,8 +23,7 @@ To write a python program for Topological Sorting of a DAG.
 ## PYTHON PROGRAM
 
 ```
-Name : John christober
-Reg No : 212222060098
+
 # A Python3 program to print topological sorting of a DAG
 def addEdge(u, v):
 	global adj
